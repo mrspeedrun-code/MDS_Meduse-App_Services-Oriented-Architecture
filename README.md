@@ -12,4 +12,8 @@ Our project consists in realizing a mobile application, allowing the search for 
 ### 3. Health Record Use Case
 ![alt text](https://github.com/mrspeedrun-code/mds-cartography-use-case-meduse/blob/main/Use%20Case/3_health_record_use_case.png)
 
+### 4. Agenda Record Use Case
+![alt text](https://github.com/mrspeedrun-code/mds-cartography-use-case-meduse/blob/main/Use%20Case/4_agenda_use_case.png)
 
+### 5. drugs news Record Use Case
+![alt text](https://github.com/mrspeedrun-code/mds-cartography-use-case-meduse/blob/main/Use%20Case/3_health_record_use_case.png)
