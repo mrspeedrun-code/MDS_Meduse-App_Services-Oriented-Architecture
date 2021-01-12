@@ -1,8 +1,4 @@
-# mds-cartography-use-case-meduse
-
-Our project consists in realizing a mobile application, allowing the search for drug information, the documentation of a customized digital health record, the export of the health record in PDF format and finally the mapping of different health sectors (pharmacy, hospitals, laboratory etc ...).
-
-
+# Meduse: Cartography Use Case
 ### 1. Authenticate Use Case
 ![alt text](https://github.com/mrspeedrun-code/mds-cartography-use-case-meduse/blob/main/1_Use_Case_Mapping/1_Authentification_Use_Case.png)
 
@@ -15,5 +11,5 @@ Our project consists in realizing a mobile application, allowing the search for 
 ### 4. Agenda Record Use Case
 ![alt text](https://github.com/mrspeedrun-code/mds-cartography-use-case-meduse/blob/main/1_Use_Case_Mapping/4_Agenda_Use_Case.png)
 
-### 5. drugs news Record Use Case
+### 5. Drugs News Record Use Case
 ![alt text](https://github.com/mrspeedrun-code/mds-cartography-use-case-meduse/blob/main/1_Use_Case_Mapping/5_Drug_News_Use_Case.png)
